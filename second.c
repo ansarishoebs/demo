@@ -5,5 +5,6 @@ int main(){
 	int z=x+y;
 	printf("Addition of two no = %d",z);
 	printf("multiplication of two no is %d",x*y);
+	printf("thank you\n")
 	return 0;
 }
